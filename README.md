@@ -1,6 +1,6 @@
 # Guide on Using CUHK Research Repository (for faculty of business administration)
 
-This guide is written for PhD students and faculty members of CUHK Business School to publicly post their research data for internal or external use. Nowadays, the disclosure of research data and code files is commonly mandatory by journals and pubilcations for paper review process. While platforms like Open Science Framework and GitHub are popular choices, CUHK offers its own institutional solution for scholars to collaborate on such research data sharing —— CUHK Research Repository.
+This guide is written for PhD students and faculty members of CUHK Business School to publicly post their research data for internal or external use. Nowadays, the disclosure of research data and code files is commonly mandatory by journals and pubilcations for paper review process. While platforms like Open Science Framework and GitHub are popular choices, CUHK offers its own institutional solution for scholars to collaborate on such research data sharing —— [CUHK Research Data Repository](https://researchdata.cuhk.edu.hk/).
 
 Key uses of the repository include:
 
